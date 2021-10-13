@@ -1,0 +1,15 @@
+HomeworkPunto1
+
+Punto 1.
+
+Variables: Es un espacio que se va a designar para guardar un valor de cualquier tipo.
+
+Funciones: Es una herramienta para ejecutar acciones
+específicas que uno cree dentro de ellas, para cuando
+se necesite, solo se llame y no tener que hacer
+el proceso cada vez. Estas pueden pedir alguna información o no, dependiendo de qué necesite.
+Pueden retornar el resultado requerido, esa es la única forma que puede salir la información de ella, ya que todo lo que sucede dentro de esta, no esa accesible desde fuera.
+
+Declaraciones: Son como filtros para controlar las cosas que necesitemos, el "if" funciona para ejecutar un código solo si se cumple el requisito que se solicite.
+
+Valores booleanos: Son valores de verdadero o falso, el "true" se asigna en caso de ser real y el "false" en caso de no serlo.  
