@@ -1,0 +1,9 @@
+HomeworkPunto1
+
+for: ciclo en el que dada una concidición se repeteria hasta ser falsa, con el objetivo de encontrar el resultado esperado.
+
+&&: Condición que significa "y", se utiliza para verificar que una se cumplan dos o más cosas.
+
+||: Confdición que significa "o", se utiliza para verificar si una de las cosas a verificar sea verdadera.
+
+!: Simbolo que significa "No", se utiliza para negar la expresión que le sigue.
