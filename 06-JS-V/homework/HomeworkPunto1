@@ -1,0 +1,5 @@
+HomeworkPunto1
+
+Prototype: es una propiedad que da acceso a todos los objetos de una clase a sus metodos, después de establecerlo una sola vez.
+
+Constructor de Clases: se utiliza para crea objetos que comparten propiedades,
