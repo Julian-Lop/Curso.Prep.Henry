@@ -1,0 +1,12 @@
+HomeworkPunto1
+
+Objetos : Representan cosas que tienen varias propiedades, a semenjanza de las cosas de la vida real.
+
+Propiedades: Son las cosas que caracterizan cada objeto, pueden tener valores similares o distintos.
+
+Métodos: son funciones que tiene los objetos, que pueden ser llamados haciendo referencia a estos.
+
+Bucle: for in, es el bucle que se utilizar para acceder a las propiedades de cada objeto, dado que estos no tienen orden numerico.
+
+Notación de puntos: se llama las propiedades o las funciones concatenando el objeto y la propoedad con un punto, en este no se puede pasar por parametro un objeto para acceder a una propiedad en particular.
+Notación de corchetes: se llama las propiedad concatenando corchetes y dentro de estos, se pone el nombre de la propiedad(key) o se puede poner una variable.
