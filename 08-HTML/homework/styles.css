@@ -1,0 +1,40 @@
+h1 {
+	color: rgb(147,112,219);
+}
+
+img {
+	width: 400px;
+}
+
+.thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: rgba(135,206,235,0.8);
+	margin: 0 auto;
+}
+
+.divClass {
+	text-align: center;
+	margin-bottom: 80px;
+	background-color: rgba(100,100,100,0.5);
+}
+
+#spanId {
+	margin: 50px;
+	padding: 50px;
+	border-color: grey;
+	border-style: double;
+	
+}
+
+#content {
+	display: flex;
+	flex-direction: column;
+}
+
+body {
+	background-image: url(https://estaticos.miarevista.es/media/cache/1140x_thumb/uploads/images/gallery/5ac4eae85bafe857c23c986a/pizza-ppal.jpg);
+	backdrop-filetr: url(commonfilters.svg#filter);
+	backdrop-filter: blur(4px);
+	backdrop-filter: sepia(10%);
+}
